@@ -3,10 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielddiogenes)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pablo-dantas-di%C3%B3genes-27b6a8144/)
 
-<a href="https://github.com/danieldiogenes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=danieldiogenes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-</a>
-
 ## Tecnologias que utilizo
 
 <div style="display: inline_block">
